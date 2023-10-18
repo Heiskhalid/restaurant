@@ -1,0 +1,68 @@
+/* body {
+  background: radial-gradient(
+   circle ,
+    #ffeeff,
+    #001aff,
+    #f000ff,
+    #0c3588,
+    #001aff,
+    #f000ff,
+    #9a0aa49e,
+    #c908c9,
+    #001aff,
+    #f000ff
+  );
+} */
+
+.one {
+  color: blue;
+  background-color: indigo;
+  border: 8px solid red;
+}
+
+.two {
+  color: red;
+  background-color: aqua;
+  border: 88px solid yellow;
+}
+.navbar {
+  list-style: none;
+  position: relative;
+  display: flex;
+  margin-left: 40%;
+  
+}
+
+nav{
+   display: flex;
+  align-items: center;
+   height: 70px;
+   background-color: rgb(14, 249, 214);
+   margin-top: 0px;
+   padding-top: 0px;
+}
+a{
+  text-decoration: double;
+  font-size: xx-large;
+  }
+a:hover{
+    color: brown;
+    }
+.home{
+  margin-right:  auto;
+  margin-left: 2%;
+  font-size: xx-large;
+ 
+}
+.side{
+  margin-left: 20px;
+  margin-right: 2%;
+}
+
+.bg{
+  image-rendering: ;
+}
+.selector:hover{
+  color: brown;
+}
+
